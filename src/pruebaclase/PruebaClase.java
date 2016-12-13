@@ -11,14 +11,12 @@ package pruebaclase;
  */
 public class PruebaClase {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.print("Hola mundo");
+        
+        System.out.print("Hola mundo version dos");
         //Estamos probando el modificador//
         
+        /*modificacion1*/
     }
     
 }
