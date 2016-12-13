@@ -16,7 +16,7 @@ public class PruebaClase {
         System.out.print("Hola mundo version dos");
         //Estamos probando el modificador//
         
-        /*modificacion1*/
+        /*modificacion2*/
     }
     
 }
